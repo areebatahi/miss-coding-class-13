@@ -1,0 +1,11 @@
+label{
+    display: inline-block;
+    width: 100px;
+}
+#email{
+    background-size: 20px ;
+    background-image: url('https://png.pngtree.com/png-vector/20190927/ourmid/pngtree-email-icon-png-image_1757854.jpg&#39;');
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left:20px ;
+}
